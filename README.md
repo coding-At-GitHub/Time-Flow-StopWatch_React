@@ -18,3 +18,5 @@ Stop and Reset: Click the "Stop" button to pause the stopwatch, and "Reset" to s
 React: Building the user interface and managing state.
 JavaScript: Implementing stopwatch logic and dynamic updates.
 CSS: Styling the components for a visually appealing design.
+
+## Acknowledgement 
