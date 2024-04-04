@@ -96,12 +96,12 @@ class Stopwatch extends Component {
             <ButtonGroup className='Stopwatch-button-group'>
               <Button bsStyle='danger' bsSize='large' block
                 className='Stopwatch-button'
-                onClick={this.stopCounter}>Stop</Button>
+                onClick={this.stopCounter}>Stop </Button>
             </ButtonGroup>
             <ButtonGroup className='Stopwatch-button-group'>
                 <Button bsSize='large' block
                   className='Stopwatch-button'
-                  onClick={this.resetCounter}>Reset</Button>
+                  onClick={this.resetCounter}>Reset </Button>
               </ButtonGroup>
           </ButtonGroup>
         );
